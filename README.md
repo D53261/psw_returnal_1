@@ -8,6 +8,7 @@ Neste projeto fora criado em conjunto com o instrutor do evento online um gerenc
 * Matplotilib
 * Gerenciamento de banco de dados
 
-## Contatos:
+## Feito por:
+### Danilo Ribeiro 
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-142962274/
 ### Email: danilo051007@gmail.com
-### Linkedin
